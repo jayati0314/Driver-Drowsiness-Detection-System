@@ -6,8 +6,8 @@ It is a Computer Vision System which can automatically detect the driver drowsin
 
 How to run:
 
-Create an environment in Anaconda and import the required libraries in the environment.
+* Create an environment in Anaconda and import the required libraries in the environment.
 
-Launch Jupyter Notebook. Paste the code, upload the .dat file and .wav file and run the code.
+* Launch the Jupyter Notebook. Paste the code, upload the .dat file and .wav file and run the code.
 
-Here you can find the dataset (.dat file) : http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+* Dataset(.dat file) can be found here : http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
